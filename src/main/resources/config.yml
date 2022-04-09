@@ -1,0 +1,4 @@
+#开启排位模式
+rank: true
+#开始插件功能（总开关）
+match: true
